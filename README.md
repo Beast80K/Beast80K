@@ -1,7 +1,6 @@
-
 <h4>I like making software, my projects ideas are based on requirements/need of a software which doesn't exist or simplify the ones which are too complex for end-user.</h4>
 
-<h5 align="left">Languages and Tools:</h5>
+<h5 align="left">Familiar with languages :</h5>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
