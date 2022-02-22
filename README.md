@@ -20,6 +20,8 @@
 
 <h4><code> My Projects : </code></h4>
 
+![Internet Speed Meter](https://github.com/ssbaraskar99/Internet_Speed_Meter/blob/main/Screenshots/1.PNG?raw=true)
+
 ![Auto Brightness](https://github.com/ssbaraskar99/Auto-Brightness/raw/main/Screenshots/Capture.PNG?raw=true)
 
 ![Code Repository](https://github.com/ssbaraskar99/Code_Repository_v1.0/raw/main/Screenshots/Capture.PNG?raw=true?raw=true)
