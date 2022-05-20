@@ -4,7 +4,6 @@
 <p align="center"> 
   I like making software, my projects ideas are based on requirements/need of a software which doesn't exists or simplify the existing one which is too complex for end-user to use.</h3>
 </p> 
-____________________________________________________________________________________________________________________________________________________
 
 <h2 align="left">◆ Familiar with Languages and Tools:</h2>
 
