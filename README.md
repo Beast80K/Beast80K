@@ -1,7 +1,12 @@
 
-<h3>I like making software, my projects ideas are based on requirements/need of a software which doesn't exists or simplify the existing one which is too complex for end-user to use.</h3>
 
-<h4 align="left"><code>Familiar with Languages and Tools:</code></h4>
+<h3> 
+<p align="center"> 
+  I like making software, my projects ideas are based on requirements/need of a software which doesn't exists or simplify the existing one which is too complex for end-user to use.</h3>
+</p> 
+____________________________________________________________________________________________________________________________________________________
+
+<h2 align="left">◆ Familiar with Languages and Tools:</h2>
 
 <p align="center"> 
   
@@ -88,26 +93,54 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> 
   </a>
 </p>
+____________________________________________________________________________________________________________________________________________________
+<h2>◆ My Projects :</h2>
 
-<h4><code> My Projects : </code></h4>
 <p align="center">
+  <h3>◈ Internet Speed Meter </h3>
   
   ![Internet Speed Meter](https://github.com/ssbaraskar99/Internet_Speed_Meter/blob/main/Screenshots/1.PNG?raw=true)
+  
+  ____________________________________________________________________________________________________________________________________________________________________
 
+  <h3>◈ Auto Brightness </h3>
+  
   ![Auto Brightness](https://github.com/ssbaraskar99/Auto-Brightness/raw/main/Screenshots/Capture.PNG?raw=true)
+  ____________________________________________________________________________________________________________________________________________________________________
+
+  <h3>◈ Code Repository </h3>
 
   ![Code Repository](https://github.com/ssbaraskar99/Code_Repository_v1.0/raw/main/Screenshots/Capture.PNG?raw=true?raw=true)
+  ____________________________________________________________________________________________________________________________________________________________________
+
+  <h3>◈ Color Snatcher </h3>
 
   ![Color Snatcher](https://github.com/ssbaraskar99/Color-Snatcher/raw/main/Screenshots/1.PNG?raw=true)
+  ____________________________________________________________________________________________________________________________________________________________________
+
+  <h3>◈ Mouse Mapper </h3>
 
   ![Mouse Mapper](https://github.com/ssbaraskar99/Mouse_Mapper/raw/main/Screenshots/1.png?raw=true)
+  ____________________________________________________________________________________________________________________________________________________________________
+
+  <h3>◈ Network_Info_and_Stats </h3>
 
   ![Network_Info_and_Stats](https://github.com/ssbaraskar99/Network_Info._and_Stats./raw/main/Screenshots/1.PNG?raw=true)
+  ____________________________________________________________________________________________________________________________________________________________________
+
+  <h3>◈ Speech to Text Typer </h3>
 
   ![Speech to Text Typer](https://github.com/ssbaraskar99/Speech_to_Text_Typer/raw/main/Screenshots/1.PNG?raw=true)
+  ____________________________________________________________________________________________________________________________________________________________________
+
+  <h3>◈ Mobile Manufacturer ERP </h3>
 
   ![Mobile Manufacturer ERP](https://raw.githubusercontent.com/ssbaraskar99/Mobile_Manufacturer_ERP_v1.0/main/Screenshot/1.PNG)
+  ____________________________________________________________________________________________________________________________________________________________________
+
+  <h3>◈ Visualizer Website </h3>
 
   ![Visualizer Website](https://github.com/ssbaraskar99/Visualizer_Website/raw/main/Screenshots/Capture.PNG?raw=true)
+  ____________________________________________________________________________________________________________________________________________________________________
 
 </p>
