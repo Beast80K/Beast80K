@@ -99,7 +99,7 @@ ________________________________________________________________________________
 
   <h3>◈ KeepOnTop </h3>
  
-  ![](https://github.com/ssbaraskar99/KeepOnTop/blob/main/Screenshots/KeepOnTop.gif?raw=true)
+  ![](https://github.com/ssbaraskar99/KeepOnTop/blob/main/Screenshots/1.PNG?raw=true)
 
   <h3>◈ Pendrive Tester </h3>
   
