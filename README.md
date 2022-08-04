@@ -1,8 +1,8 @@
 
 
-<h3> 
-<p align="center"> 
-  I like making software, my projects ideas are based on requirements/need of a software which doesn't exists or simplify the existing one which is too complex for end-user to use.</h3>
+
+```I design and build softwares for making existing softwares more usable or finding solution to any problems that I come across !</b>```
+
 </p> 
 
 <h2 align="left">◆ Familiar with Languages and Tools:</h2>
