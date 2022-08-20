@@ -1,7 +1,7 @@
 
 
 
-```I design and build softwares for making existing softwares more usable or finding solution to any problems that I come across !</b>```
+```I design and build softwares for making existing softwares more usable or finding solution to any problems that I come across !```
 
 </p> 
 
