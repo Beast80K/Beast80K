@@ -5,7 +5,7 @@
 
 </p> 
 
-<h2 align="left">◆ Familiar with Languages and Tools:</h2>
+<h2 align="left">Familiar with Languages and Tools:</h2>
 
 <p align="center"> 
   
@@ -93,7 +93,7 @@
   </a>
 </p>
 
-<h2>◆ My Projects :</h2>
+<h2>My Projects :</h2>
 
 <p align="center">
 
