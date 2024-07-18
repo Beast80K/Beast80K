@@ -45,15 +45,17 @@
 
 ###
 
-### Projects
+## Projects
 
-<div align="center">
+
+  ### CMV
   <img src="https://github.com/ssbaraskar99/ssbaraskar99/blob/main/images/CMV.png" />
+
+  ### AboutWeather
   <img src="https://github.com/ssbaraskar99/ssbaraskar99/blob/main/images/AboutWeather.png" />
+
+  ### FewRecipes
   <img src="https://github.com/ssbaraskar99/ssbaraskar99/blob/main/images/FewRecipes.png" />
-  
-  
-</div>
 
-
-
+  ### NotAmazon
+  <img src="https://github.com/ssbaraskar99/ssbaraskar99/blob/main/images/NotAmazon.png" />
