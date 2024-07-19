@@ -1,7 +1,6 @@
-<p align="left">I'm ReactJS Developer & Computer Engineer, I make personal projects based on problems/issues I face while using existing software or make one to solve that problem. I always focus on using new frameworks, technologies which also helps in learning.</p>
-
-![](https://github.com/ssbaraskar99/ssbaraskar99/blob/main/Cover.png)
-
+<img src="https://github.com/ssbaraskar99/ssbaraskar99/blob/main/images/Cover.png" height="350" alt="javascript logo"  />
+<p align="left">I'm ReactJS Developer & Computer Engineer, I make personal projects based on problems/issues I face while using existing software or make one to solve that problem. 
+  I always focus on using new frameworks, technologies which also helps in learning.</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
