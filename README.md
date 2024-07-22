@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssbaraskar99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Beast80K&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="200" alt="languages graph"  />
 
 </div>
 
@@ -45,13 +45,13 @@
 
 
   ### CMV
-  <img src="https://github.com/ssbaraskar99/ssbaraskar99/blob/main/images/CMV.png" />
+  <img src="https://github.com/Beast80K/Beast80K/blob/main/images/CMV.png" />
 
   ### AboutWeather
-  <img src="https://github.com/ssbaraskar99/ssbaraskar99/blob/main/images/AboutWeather.png" />
+  <img src="https://github.com/Beast80K/Beast80K/blob/main/images/AboutWeather.png" />
 
   ### FewRecipes
-  <img src="https://github.com/ssbaraskar99/ssbaraskar99/blob/main/images/FewRecipes.png" />
+  <img src="https://github.com/Beast80K/Beast80K/blob/main/images/FewRecipes.png" />
 
   ### NotAmazon
-  <img src="https://github.com/ssbaraskar99/ssbaraskar99/blob/main/images/NotAmazon.png" />
+  <img src="https://github.com/Beast80K/Beast80K/blob/main/images/NotAmazon.png" />
